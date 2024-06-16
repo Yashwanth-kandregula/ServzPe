@@ -40,3 +40,10 @@
 .read-the-docs {
   color: #888;
 }
+.card {
+  width: 195.054px;
+  height: 190.416px;
+  transform: rotate(0.764deg);
+  flex-shrink: 0;
+}
+
